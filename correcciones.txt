@@ -1,0 +1,4 @@
+mejoras:
+
+- cambiar a cada vez que se genere un laberinto nuevo (10 posibilidades)
+- Hacer diferentes niveles de dificultad (Más amplio, por ejemplo)
